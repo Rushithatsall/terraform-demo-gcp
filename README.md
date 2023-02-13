@@ -1,6 +1,6 @@
 # Infrastructure automation with Terraform Cloud and GitHub
 
-You can refer to the [Medium](https://www.youtube.com/watch?v=xxxxxxx) and [Youtube link](https://www.youtube.com/watch?v=Ydgk_V4r5jw)
+You can refer to the [Medium](https://www.youtube.com/watch?v=xxxxxxx) and [Youtube link](https://www.youtube.com/watch?v=hHLCCA8_yek)
 
 ## Other resources
 
