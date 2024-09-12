@@ -22,3 +22,4 @@ resource "google_storage_bucket" "auto-expire" {
     }
   }
 }
+*/
